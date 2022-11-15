@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 4em;
+    color: rgb(218, 218, 119);
+}
+h5{
+    font-size: 1.4em;
+    padding: 10px;
+}
+
+nav{
+    color: white;
+    background-color: transparent;
+}
+.navbar-nav{
+    margin-left: 60%;
+    color: white;
+    font-size: 1.3em;
+}
+#navbarNav{
+    width: 400px;
+    
+}
+
+.card{
+    padding: 1px;
+    margin: 10px;
+    text-align: center;
+}
+.card-text{
+    font-size: small;
+}
+figure img{
+    height: 600px;
+}
+.banner{
+    background: linear-gradient(black,transparent), url("../images/pexels-pixabay-355465.jpg");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.banner h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.banner-text{
+    padding: 70px 30px 0 30px;
+    color:aliceblue;
+}
+.banner-buttons{
+    margin: 30px 0;
+}
+.bi{
+    color: white;
+    padding: 0 2px;
+}
+.Cart a{
+    padding: 0 10px;
+}
+.cartAmount{
+    padding: 0 3px;
+    color: white;
+    height: 25px;
+}
+.header-text{
+    font-size: 2em;
+    padding: 30px;
+    font-weight: 700;
+}
+.btn-link{
+    text-decoration: none;
+    color:whitesmoke;
+}
+
+
+/*----------------------product page--------------------------------------*/
+
+.shop-item-img{
+    width: 500px;  
+}
+.product-info h5{
+    font-size: 4em;
+}
+.product-info h6{
+    font-size: 2em;
+}
+.product-info span{
+    font-size: small;
+}
